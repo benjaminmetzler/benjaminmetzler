@@ -1,4 +1,4 @@
-### Hi there 👋
+Welcome to my jungle.  This is a place I put all of my code, thoughts, and TILs.  Mostly it keeps me from losing anything.  
 
 <!--
 **benjaminmetzler/benjaminmetzler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
