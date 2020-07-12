@@ -1,4 +1,8 @@
-Welcome to my jungle.  This is a place I put all of my code, thoughts, and TILs.  Mostly it keeps me from losing anything.  
+Currently looking for new opportunies to make things work.
+
+This is a place I put some of my code, thoughts, and TILs.  Mostly it keeps me from losing anything.
+
+I am an [aphant](https://en.wikipedia.org/wiki/Aphantasia) and [cross-dominant](https://en.wikipedia.org/wiki/Cross-dominance) handed.  I like to listen to audiobooks, learn new technologies, and spend time with my family.  
 
 <!--
 **benjaminmetzler/benjaminmetzler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
