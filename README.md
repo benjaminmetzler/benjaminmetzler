@@ -11,7 +11,7 @@ I am currently looking for new opportunities.
 * [Twitter](https://twitter.com/benjaminmetzler)
 
 ##### How to be a better programmer:
-<img src="https://raw.githubusercontent.com/benjaminmetzler/benjaminmetzler/master/programmers.jpg" alt="Google programming">
+<img width=50% src="https://raw.githubusercontent.com/benjaminmetzler/benjaminmetzler/master/programmers.jpg" alt="Google programming">
 
 <!--
 **benjaminmetzler/benjaminmetzler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
