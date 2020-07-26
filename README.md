@@ -1,8 +1,16 @@
-Currently looking for new opportunies to make things work.
 
-This is a place I put some of my code, thoughts, and TILs.  Mostly it keeps me from losing anything.
+#### Hi.  I'm Ben.  
+This is a place to put most of my code, thoughts, and TILs.  I am a software developer with over 20 years of experience, holding roles along the entire [SDLC](https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Process/Life_Cycle), with an emphasis on automating and making things work in short periods of time.
 
-I am an [aphant](https://en.wikipedia.org/wiki/Aphantasia) and [cross-dominant](https://en.wikipedia.org/wiki/Cross-dominance) handed.  I like to eat pickles, listen to audiobooks, learn new technologies, and spend time with my family.  
+I am an [aphant](https://en.wikipedia.org/wiki/Aphantasia) and [cross-dominant](https://en.wikipedia.org/wiki/Cross-dominance) handed.  I enjoy listening to audiobooks, learning new technologies, and spending time with my family.  
+
+I am currently looking for new opportunities.
+
+#### Find me on
+* [LinkedIn](https://www.linkedin.com/in/benjaminmetzler/)
+* [Twitter](https://twitter.com/benjaminmetzler)
+
+
 
 <!--
 **benjaminmetzler/benjaminmetzler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
