@@ -10,8 +10,8 @@ I am currently looking for new opportunities.
 * [LinkedIn](https://www.linkedin.com/in/benjaminmetzler/)
 * [Twitter](https://twitter.com/benjaminmetzler)
 
-##### How to be a better programmer:
-<img width=50% src="https://raw.githubusercontent.com/benjaminmetzler/benjaminmetzler/master/programmers.jpg" alt="Google programming">
+##### How the Internet works:
+<img width=50% src="https://imgs.xkcd.com/comics/dependency_2x.png" alt="Dependencies">
 
 <!--
 **benjaminmetzler/benjaminmetzler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
