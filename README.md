@@ -4,8 +4,6 @@ This is a place to put most of my code, thoughts, and [TILs](https://github.com/
 
 I am an [aphant](https://en.wikipedia.org/wiki/Aphantasia) and [cross-dominant](https://en.wikipedia.org/wiki/Cross-dominance) handed.  I enjoy listening to audiobooks, learning new technologies, and spending time with my family.  
 
-I am currently looking for new opportunities.
-
 ##### Find me on:
 * [LinkedIn](https://www.linkedin.com/in/benjaminmetzler/)
 * [Twitter](https://twitter.com/benjaminmetzler)
