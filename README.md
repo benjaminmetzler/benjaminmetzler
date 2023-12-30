@@ -10,5 +10,5 @@ I am an [aphant](https://en.wikipedia.org/wiki/Aphantasia) and [cross-dominant](
 
 
 ##### How the Internet works:
-<img width=50% src="https://imgs.xkcd.com/comics/dependency_2x.png" alt="Dependencies">
+<a href="https://xkcd.com/2347/"><img width=50% src="https://imgs.xkcd.com/comics/dependency_2x.png" alt="Dependencies"></a>
 
