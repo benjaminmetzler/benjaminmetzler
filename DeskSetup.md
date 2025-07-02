@@ -18,7 +18,7 @@
 * [Samson Q2U Microphone](https://samsontech.com/products/microphones/usb-microphones/q2u/)
   * Mic arm
 * [Insta360 Link 2C](https://www.insta360.com/product/insta360-link2)
-  * [Elgato Mounting System](https://www.elgato.com/us/en/p/master-mount-l)
+* [Elgato Mounting System](https://www.elgato.com/us/en/p/master-mount-l)
 * [Logitech Litra Glow](https://www.logitech.com/en-us/products/lighting/litra-glow.946-000001.html)
 
 ## Equipment
