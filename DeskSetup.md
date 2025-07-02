@@ -24,11 +24,11 @@
 ## Equipment
 
 * Monoprice 32" 4K Monitor
+* [Monitor Arm 1](https://www.amazon.com/gp/product/B07NLMLLT6)
+* [16" 4K Monitor](https://www.amazon.com/gp/product/B0BZ4FPN3K)
+* [Monitor Arm 2](https://www.amazon.com/gp/product/B07SBXVCTK)
 * [Desk shelf](https://www.amazon.com/dp/B08P1V75GB)
 * [CalDigit Thunderbolt 4 Dock](https://www.caldigit.com/thunderbolt-station-4/)
-  * [Monitor Arm 1](https://www.amazon.com/gp/product/B07NLMLLT6)
-* [16" 4K Monitor](https://www.amazon.com/gp/product/B0BZ4FPN3K)
-  * [Monitor Arm 2](https://www.amazon.com/gp/product/B07SBXVCTK)
 * [Logitech MX Master 3 Mouse](https://www.amazon.com/Logitech-Master-Advanced-Wireless-Renewed/dp/B085ZRP1KT)
 * [Keychron K8 Wireless Mechanical Keyboard](https://www.keychron.com/products/keychron-k8-tenkeyless-wireless-mechanical-keyboard)
 * [Stream Deck Mini](https://www.elgato.com/us/en/p/stream-deck-mini)
